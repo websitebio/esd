@@ -34,12 +34,15 @@ body {
               .nav-bar {
                 background-color: #333;
                 overflow: hidden;
+                position
+                height: 5vh;
               }
               
               /* links (a) */
               .nav-bar a {
                 float: left;
-                color: #f2f2f2;
+                color: #8DBFE8;
+                border-color: #4B644A;
                 text-align: center;
                 padding: 14px 16px;
                 text-decoration: none;
@@ -48,13 +51,13 @@ body {
               
               /* hover text */
               .nav-bar a:hover {
-                background-color: #ddd;
+                background-color: #F1EFE1;
                 color: black;
               }
               
               /* response colour */
               .nav-bar a.active {
-                background-color: #04AA6D;
+                background-color: #4B644A;
                 color: white;
               }
 
