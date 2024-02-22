@@ -19,6 +19,11 @@ html {
 }
 
 body {
-  background-color: #8DBFE8;
+  background-color: #00467F;
   font-family: AILERON;
+  font-color: #8DBFE8;
 }
+
+  .title {
+    font-size: 5vw;
+  }
