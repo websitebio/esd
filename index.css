@@ -32,10 +32,19 @@ body {
 
 /* navigation */
               .nav-bar {
-                background-color: #333;
+                background-color: #F1EFE1;
                 overflow: hidden;
                 /*position*/
-                height: 5vh;
+                height: 7vh;
+              }
+
+              /* for future adjustments */
+              .nav-img {
+                max-height: 5vh;
+                max-width: auto;
+              }
+              .nav-button {
+                border-color: #4b644a;
               }
               
               /* links (a) */
@@ -59,12 +68,4 @@ body {
               .nav-bar a.active {
                 background-color: #4B644A;
                 color: white;
-              }
-
-              /* for future adjustments */
-              .nav-img {
-                max-height: 5vh;
-                max-width: auto;
-              }
-              .nav-button {
               }
