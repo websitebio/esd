@@ -4,10 +4,15 @@
   box-sizing: border-box;
 }
 
+@font-face {
+  font-family: AILERON;
+  src: url(Aileron-Regular.otf);
+}
+
 html {
     position:centre;
    /* min-height:5000;*/
-    overflow: hidden
+    overflow: hidden;
     scroll-behavior: smooth;
     /* Create the parallax scrolling effect */
     color-scheme: light;
@@ -15,4 +20,5 @@ html {
 
 body {
   background-color: #8DBFE8;
+  font-family: AILERON;
 }
