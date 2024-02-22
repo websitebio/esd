@@ -34,7 +34,7 @@ body {
               .nav-bar {
                 background-color: #333;
                 overflow: hidden;
-                position
+                /*position*/
                 height: 5vh;
               }
               
@@ -63,6 +63,8 @@ body {
 
               /* for future adjustments */
               .nav-img {
+                max-height: 5vh;
+                max-width: auto;
               }
               .nav-button {
               }
