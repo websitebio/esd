@@ -19,9 +19,8 @@ html {
 }
 
 body {
-  /* background-color: #00467F; */
-  background: rgb(75,100,74);
-  background: linear-gradient(nulldeg, rgba(75,100,74,1) 0%, rgba(0,70,127,1) 100%);
+  background-color: #00467F;
+  /* background: linear-gradient(nulldeg, rgba(75,100,74,1) 0%, rgba(0,70,127,1) 100%);*/
   font-family: AILERON;
   color: #8DBFE8;
 }
