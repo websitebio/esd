@@ -40,6 +40,9 @@ body {
     color: #00467F;
     border-color: #00467F;
     border-width: 0.1vw;
+    width: 50vw;
+    height: 33vh;
+    border-radius: 25px;
   }
 
   .footer {
