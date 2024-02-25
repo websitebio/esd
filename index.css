@@ -29,6 +29,18 @@ body {
     padding-left: 2vw;
   }
 
+  .sign-up {
+    border-
+  }
+
+  .footer {
+    height: 10vh;
+    width: 100vw;
+    position: fixed;
+    bottom: 0;
+    background-color: #8DBFE8;
+    color: #00467F;
+  }
 
 /* navigation */
               .nav-bar {
