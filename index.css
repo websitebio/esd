@@ -29,6 +29,12 @@ body {
     padding-left: 2vw;
   }
 
+  .statement {
+    font-size: 1.5vw;
+    padding: 2vw;
+    top-padding: 0.5vh;
+  }
+
   .sign-up {
     background-color: #8DBFE8;
     color: #00467F;
