@@ -20,8 +20,8 @@ html {
 
 body {
   /* background-color: #00467F; */
-  background: rgb(141,191,232);
-  background: linear-gradient(NaNdeg, rgba(141,191,232,1) 0%, rgba(28,94,148,1) 31%, rgba(0,70,127,1) 73%);
+  background: rgb(75,100,74);
+  background: linear-gradient(nulldeg, rgba(75,100,74,1) 0%, rgba(0,70,127,1) 100%);
   font-family: AILERON;
   color: #8DBFE8;
 }
