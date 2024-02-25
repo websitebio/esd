@@ -38,6 +38,8 @@ body {
   .sign-up {
     background-color: #8DBFE8;
     color: #00467F;
+    border-color: #00467F;
+    border-width: 0.1vw;
   }
 
   .footer {
