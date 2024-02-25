@@ -30,7 +30,7 @@ body {
   }
 
   .statement {
-    font-size: max(2vh, 1.5vw);
+    font-size: max(3vh, 1.5vw);
     padding: 2vw;
     top-padding: 0.5vh;
   }
