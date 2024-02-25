@@ -43,6 +43,7 @@ body {
     width: 50vw;
     border-radius: 25px;
     text-align: center;
+    padding-left: 2vw;
   }
 
 .eco {
@@ -53,6 +54,7 @@ body {
     width: 25vw;
     border-radius: 25px;
     text-align: center;
+    padding-left: 2vw;
   }
 
   .footer {
