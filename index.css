@@ -35,7 +35,7 @@ body {
     top-padding: 0.5vh;
   }
 
-  .sign-up {
+  .button {
     background-color: #8DBFE8;
     color: #00467F;
     border-color: #00467F;
@@ -46,15 +46,11 @@ body {
     margin-left: 2vw;
   }
 
-.eco {
-    background-color: #8DBFE8;
-    color: #00467F;
-    border-color: #00467F;
-    border-width: 0.1vw;
-    width: 50vw;
-    border-radius: 25px;
-    text-align: center;
-    margin-left: 2vw;
+  .button:hover {
+    background-color: #2980b9;
+    box-shadow: 0 0 0 30px rgba(0, 230, 150, 0.2);
+    transition: all 200ms ease-out;
+    z-index: 5;
   }
 
   .footer {
